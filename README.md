@@ -15,7 +15,7 @@ ros2 launch baloon_game game.launch.py
 
 **topic:**
 - /camera/image_raw mengambil input dari camera_node ke game_node
-- /game/score menyimpan skor
+- /game/score mengirim skor dari gamenode
 - /game/debug_image menambahkan bounding box
 
 **parameter:** tempat buat penyimpanan variabel (ball_speed, num_balls, hold_duration, ball_radius, etc)
