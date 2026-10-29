@@ -1,0 +1,17 @@
+camera_node:
+  ros__parameters:
+    source: "0"        # "0" = webcam, or a path to a video file
+    fps: 30.0
+    width: 640
+    height: 480
+
+game_node:
+  ros__parameters:
+    hsv_lower: [35, 100, 100]
+    hsv_upper: [85, 255, 255]
+    num_balls: 3
+    hold_duration: 2.0
+    ball_radius: 40
+    ball_speed: 150.0
+    min_area: 300
+
