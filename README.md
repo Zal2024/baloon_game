@@ -21,6 +21,7 @@ ros2 launch baloon_game game.launch.py
 **parameter:** tempat buat penyimpanan variabel (ball_speed, num_balls, hold_duration, ball_radius, etc)
 
 ## Video
+link: https://youtube.com/shorts/lSQ100SWq3A
 
 ## rqt graph
 
