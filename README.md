@@ -35,3 +35,7 @@ saya menambahkan GUI "score:"
 ## rqt graph
 
 <img width="634" height="175" alt="image" src="https://github.com/user-attachments/assets/c6f48e3c-3b09-4883-9816-441f11bbb598" />
+
+## hasil yolo
+<img width="2400" height="1200" alt="results (1)" src="https://github.com/user-attachments/assets/4fde3f4a-1def-45b4-a8aa-e19ef9e3656b" />
+
