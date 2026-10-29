@@ -26,7 +26,7 @@ ros2 launch baloon_game game.launch.py
 saya menggunakan python karena menurut saya lebih gampang untuk dibaca dan debugging. dan untuk tambahan, saya menggunakan YOLO karena sudah terlanjur training(2 jam menggunakan Notebook (A100)). 🏃
 
 ## kendala yang saya hadapi
-karena saya menggunakan YOLO masalah yang saya hadapi adalah hasil nya yang kurang memuaskan. awal nya menggunakan 500 gambar dan menggunakan settingan yang kurang(terutama penggunaan saturation membuat gambar terlihat kurang jelas). dan saya mengubah dataset dengan dataset yang suda ada di roboflow. yakni dataset yang memiliki ~8 ribu gambar, dan saya training dengan epoch 150. hasil dengan dataset 8 ribu gambar dengan epoch 150 mendapatkan weight YOLO yang akurat.
+karena saya menggunakan YOLO masalah yang saya hadapi adalah hasil nya yang kurang memuaskan. awal nya menggunakan 500 gambar dan menggunakan settingan yang kurang(terutama penggunaan saturation membuat gambar terlihat kurang jelas). dan saya mengubah dataset dengan dataset yang suda ada di roboflow. yakni dataset yang memiliki ~8 ribu gambar, dan saya training dengan epoch 120. hasil dengan dataset 8 ribu gambar dengan epoch 120 mendapatkan weight YOLO yang akurat.
 
 ## Video
 link: https://youtube.com/shorts/lSQ100SWq3A
